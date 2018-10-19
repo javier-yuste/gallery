@@ -7,6 +7,14 @@
       "compressed": true,
       "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
       "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+    },
+    {
+      "height": 1232,
+      "compressed_path": "./photos/Travel Photography/Londres_35mm-7.min.jpg",
+      "width": 1840,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/Londres_35mm-7.placeholder.jpg",
+      "path": "./photos/Travel Photography/Londres_35mm-7.jpg"
     }
   ]
 }
