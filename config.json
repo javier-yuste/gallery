@@ -1,20 +1,108 @@
 {
   "Travel Photography": [
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "height": 2432,
+      "compressed_path": "./photos/Travel Photography/Londres_35mm-19.min.jpg",
+      "width": 3637,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/Londres_35mm-19.placeholder.jpg",
+      "path": "./photos/Travel Photography/Londres_35mm-19.jpg"
+    },
+    {
+      "height": 1232,
+      "compressed_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-21.min.jpg",
+      "width": 1840,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-21.placeholder.jpg",
+      "path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-21.jpg"
+    },
+    {
+      "height": 2432,
+      "compressed_path": "./photos/Travel Photography/Londres_35mm-23.min.jpg",
+      "width": 3637,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/Londres_35mm-23.placeholder.jpg",
+      "path": "./photos/Travel Photography/Londres_35mm-23.jpg"
+    },
+    {
+      "height": 1232,
+      "compressed_path": "./photos/Travel Photography/Londres_35mm-15.min.jpg",
+      "width": 1840,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/Londres_35mm-15.placeholder.jpg",
+      "path": "./photos/Travel Photography/Londres_35mm-15.jpg"
+    },
+    {
+      "height": 1840,
+      "compressed_path": "./photos/Travel Photography/JavierYusteMoure_London-5.min.jpg",
+      "width": 1232,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/JavierYusteMoure_London-5.placeholder.jpg",
+      "path": "./photos/Travel Photography/JavierYusteMoure_London-5.jpg"
+    },
+    {
+      "height": 1840,
+      "compressed_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-27.min.jpg",
+      "width": 1232,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-27.placeholder.jpg",
+      "path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-27.jpg"
+    },
+    {
+      "height": 1840,
+      "compressed_path": "./photos/Travel Photography/JavierYusteMoure_08_16-15.min.jpg",
+      "width": 1232,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/JavierYusteMoure_08_16-15.placeholder.jpg",
+      "path": "./photos/Travel Photography/JavierYusteMoure_08_16-15.jpg"
+    },
+    {
+      "height": 1232,
+      "compressed_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-29.min.jpg",
+      "width": 1840,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-29.placeholder.jpg",
+      "path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-29.jpg"
+    },
+    {
+      "height": 1232,
+      "compressed_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-8.min.jpg",
+      "width": 1840,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-8.placeholder.jpg",
+      "path": "./photos/Travel Photography/OlympusOM1_Londres_35mm-8.jpg"
     },
     {
       "height": 1232,
       "compressed_path": "./photos/Travel Photography/Londres_35mm-7.min.jpg",
       "width": 1840,
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Travel Photography/Londres_35mm-7.placeholder.jpg",
       "path": "./photos/Travel Photography/Londres_35mm-7.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Travel Photography/Londres_35mm-1-20.min.jpg",
+      "width": 3091,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/Londres_35mm-1-20.placeholder.jpg",
+      "path": "./photos/Travel Photography/Londres_35mm-1-20.jpg"
+    },
+    {
+      "height": 1840,
+      "compressed_path": "./photos/Travel Photography/JavierYusteMoure_08_16_portra_400-10.min.jpg",
+      "width": 1232,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/JavierYusteMoure_08_16_portra_400-10.placeholder.jpg",
+      "path": "./photos/Travel Photography/JavierYusteMoure_08_16_portra_400-10.jpg"
+    },
+    {
+      "height": 1840,
+      "compressed_path": "./photos/Travel Photography/JavierYusteMoure_08_16_portra_400-8.min.jpg",
+      "width": 1232,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/JavierYusteMoure_08_16_portra_400-8.placeholder.jpg",
+      "path": "./photos/Travel Photography/JavierYusteMoure_08_16_portra_400-8.jpg"
     }
   ]
 }
